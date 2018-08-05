@@ -1,5 +1,7 @@
 Tig: text-mode interface for Git
 ================================
+
+image:https://badges.production.guardrails.io/shtakai/tig.svg[link="https://www.guardrails.io"]
 :docext: adoc
 
 image:https://secure.travis-ci.org/jonas/tig.svg?branch=master[Build Status,link=http://travis-ci.org/jonas/tig]
